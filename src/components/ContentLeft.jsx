@@ -26,26 +26,25 @@ const ContentLeft = () => {
                 <div className="content-left_InfoCards-card">
                     <div className="content-left_InfoCards-card-info">
                         <p>feels like</p>
-                        <h4>64</h4>
-                    </div>
-                </div>
-
-                <div className="content-left_InfoCards-card">
-                    <div className="content-left_InfoCards-card-info">
-                        <p>feels like</p>
-                        <h4>64</h4>
+                        <h4>64°C</h4>
                     </div>
                 </div>
                 <div className="content-left_InfoCards-card">
                     <div className="content-left_InfoCards-card-info">
                         <p>feels like</p>
-                        <h4>64</h4>
+                        <h4>64°C</h4>
                     </div>
                 </div>
                 <div className="content-left_InfoCards-card">
                     <div className="content-left_InfoCards-card-info">
                         <p>feels like</p>
-                        <h4>64</h4>
+                        <h4>64°C</h4>
+                    </div>
+                </div>
+                <div className="content-left_InfoCards-card">
+                    <div className="content-left_InfoCards-card-info">
+                        <p>feels like</p>
+                        <h4>64°C</h4>
                     </div>
                 </div>
 
@@ -59,8 +58,8 @@ const ContentLeft = () => {
                         <p>Tue</p>
                         <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
                         <div className="forecast-card_maxmin-temp">
-                            <p>25</p>
-                            <p>38</p>
+                            <p>25°C</p>
+                            <p>38°C</p>
                         </div>
 
                     </div>
@@ -68,8 +67,8 @@ const ContentLeft = () => {
                         <p>Tue</p>
                         <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
                         <div className="forecast-card_maxmin-temp">
-                            <p>25</p>
-                            <p>38</p>
+                            <p>25°C</p>
+                            <p>38°C</p>
                         </div>
 
                     </div>
@@ -77,8 +76,8 @@ const ContentLeft = () => {
                         <p>Tue</p>
                         <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
                         <div className="forecast-card_maxmin-temp">
-                            <p>25</p>
-                            <p>38</p>
+                            <p>25°C</p>
+                            <p>38°C</p>
                         </div>
 
                     </div>
@@ -86,8 +85,8 @@ const ContentLeft = () => {
                         <p>Tue</p>
                         <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
                         <div className="forecast-card_maxmin-temp">
-                            <p>25</p>
-                            <p>38</p>
+                            <p>25°C</p>
+                            <p>38°C</p>
                         </div>
 
                     </div>
@@ -95,8 +94,8 @@ const ContentLeft = () => {
                         <p>Tue</p>
                         <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
                         <div className="forecast-card_maxmin-temp">
-                            <p>25</p>
-                            <p>38</p>
+                            <p>25°C</p>
+                            <p>38°C</p>
                         </div>
 
                     </div>
@@ -104,8 +103,8 @@ const ContentLeft = () => {
                         <p>Tue</p>
                         <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
                         <div className="forecast-card_maxmin-temp">
-                            <p>25</p>
-                            <p>38</p>
+                            <p>25°C</p>
+                            <p>38°C</p>
                         </div>
 
                     </div>
@@ -113,11 +112,12 @@ const ContentLeft = () => {
                         <p>Tue</p>
                         <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
                         <div className="forecast-card_maxmin-temp">
-                            <p>25</p>
-                            <p>38</p>
+                            <p>25°C</p>
+                            <p>38°C</p>
                         </div>
 
                     </div>
+
                 </div>
             </div>
 
