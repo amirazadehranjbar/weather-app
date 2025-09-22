@@ -20,7 +20,92 @@ const ContentRight = () => {
 
                 <div className="hourlyforecast-title">
                     <p>Hourly forecast</p>
-                    <DropDownList className="k-dropdownlist" data={days} defaultValue={days[0]} rounded="medium"/>
+                    <DropDownList className="k-dropdownlist" data={days} defaultValue={days[0]} onChange={(data)=>{
+                        console.log(data.value)}}/>
+                </div>
+
+                <div className="hourlyforecast-forecastCards">
+
+
+                    <div className="hourlyforecast-card">
+                        <div className="hourlyforecast-card_left">
+                            <img src="../../src/assets/images/icon-fog.webp" alt=""/>
+                            <p>3 PM</p>
+                        </div>
+
+                        <div className="hourlyforecast-card_right">
+                            20°C
+                        </div>
+
+                    </div>
+                    <div className="hourlyforecast-card">
+                        <div className="hourlyforecast-card_left">
+                            <img src="../../src/assets/images/icon-fog.webp" alt=""/>
+                            <p>3 PM</p>
+                        </div>
+
+                        <div className="hourlyforecast-card_right">
+                            20°C
+                        </div>
+
+                    </div>
+                    <div className="hourlyforecast-card">
+                        <div className="hourlyforecast-card_left">
+                            <img src="../../src/assets/images/icon-fog.webp" alt=""/>
+                            <p>3 PM</p>
+                        </div>
+
+                        <div className="hourlyforecast-card_right">
+                            20°C
+                        </div>
+
+                    </div>
+                    <div className="hourlyforecast-card">
+                        <div className="hourlyforecast-card_left">
+                            <img src="../../src/assets/images/icon-fog.webp" alt=""/>
+                            <p>3 PM</p>
+                        </div>
+
+                        <div className="hourlyforecast-card_right">
+                            20°C
+                        </div>
+
+                    </div>
+                    <div className="hourlyforecast-card">
+                        <div className="hourlyforecast-card_left">
+                            <img src="../../src/assets/images/icon-fog.webp" alt=""/>
+                            <p>3 PM</p>
+                        </div>
+
+                        <div className="hourlyforecast-card_right">
+                            20°C
+                        </div>
+
+                    </div>
+                    <div className="hourlyforecast-card">
+                        <div className="hourlyforecast-card_left">
+                            <img src="../../src/assets/images/icon-fog.webp" alt=""/>
+                            <p>3 PM</p>
+                        </div>
+
+                        <div className="hourlyforecast-card_right">
+                            20°C
+                        </div>
+
+                    </div>
+                    <div className="hourlyforecast-card">
+                        <div className="hourlyforecast-card_left">
+                            <img src="../../src/assets/images/icon-fog.webp" alt=""/>
+                            <p>3 PM</p>
+                        </div>
+
+                        <div className="hourlyforecast-card_right">
+                            20°C
+                        </div>
+
+                    </div>
+
+
                 </div>
 
 
