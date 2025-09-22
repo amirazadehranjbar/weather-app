@@ -18,8 +18,6 @@ const ContentLeft = () => {
                 </div>
 
 
-
-
             </div>
 
             <div className="content-left_InfoCards">
@@ -58,6 +56,66 @@ const ContentLeft = () => {
                 <h3>Daily Forecast</h3>
                 <div className="forecast-cards-container">
                     <div className="forecast-card">
+                        <p>Tue</p>
+                        <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
+                        <div className="forecast-card_maxmin-temp">
+                            <p>25</p>
+                            <p>38</p>
+                        </div>
+
+                    </div>
+                    <div className="forecast-card">
+                        <p>Tue</p>
+                        <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
+                        <div className="forecast-card_maxmin-temp">
+                            <p>25</p>
+                            <p>38</p>
+                        </div>
+
+                    </div>
+                    <div className="forecast-card">
+                        <p>Tue</p>
+                        <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
+                        <div className="forecast-card_maxmin-temp">
+                            <p>25</p>
+                            <p>38</p>
+                        </div>
+
+                    </div>
+                    <div className="forecast-card">
+                        <p>Tue</p>
+                        <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
+                        <div className="forecast-card_maxmin-temp">
+                            <p>25</p>
+                            <p>38</p>
+                        </div>
+
+                    </div>
+                    <div className="forecast-card">
+                        <p>Tue</p>
+                        <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
+                        <div className="forecast-card_maxmin-temp">
+                            <p>25</p>
+                            <p>38</p>
+                        </div>
+
+                    </div>
+                    <div className="forecast-card">
+                        <p>Tue</p>
+                        <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
+                        <div className="forecast-card_maxmin-temp">
+                            <p>25</p>
+                            <p>38</p>
+                        </div>
+
+                    </div>
+                    <div className="forecast-card">
+                        <p>Tue</p>
+                        <img src="../../src/assets/images/icon-drizzle.webp" width="90"/>
+                        <div className="forecast-card_maxmin-temp">
+                            <p>25</p>
+                            <p>38</p>
+                        </div>
 
                     </div>
                 </div>
